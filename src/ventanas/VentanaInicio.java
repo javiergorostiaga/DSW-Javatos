@@ -42,7 +42,7 @@ public class VentanaInicio extends JFrame {
 	 */
 	public VentanaInicio() {
 		setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
-		setBounds(1100, 800, 775, 623);
+		setBounds(600, 250, 775, 623);
 		contentPane = new JPanel();
 		contentPane.setBackground(Color.DARK_GRAY);
 		contentPane.setBorder(new EmptyBorder(5, 5, 5, 5));
